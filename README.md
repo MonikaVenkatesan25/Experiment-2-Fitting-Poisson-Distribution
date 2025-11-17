@@ -90,10 +90,9 @@ if cal_chi2 < table_chi2:
     print("The given data CAN be fitted to Poisson Distribution at 1% LOS")
 else:
     print("The given data CANNOT be fitted to Poisson Distribution at 1% LOS")
-
-colab link:https://colab.research.google.com/drive/1dqcq9kmSWHh8LMwbJ7XWXjdYkfLm-DdV?usp=sharing 
-
 ```
+colab link:https://colab.research.google.com/drive/1dqcq9kmSWHh8LMwbJ7XWXjdYkfLm-DdV?usp=sharing
+
 
 # Output:
 ```
