@@ -93,9 +93,9 @@ else:
 
 colab link:https://colab.research.google.com/drive/1dqcq9kmSWHh8LMwbJ7XWXjdYkfLm-DdV?usp=sharing 
 
+```
 
-
-# Output
+# Output:
 ```
 Enter data: 5 6 7 8 9 3 15 7 9 4
 X   P(X=x)   Obs.Fr   Exp.Fr   xi
